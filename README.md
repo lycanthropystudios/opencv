@@ -1,6 +1,9 @@
 # opencv
 check the readme
-skype
+
+#skype
 johann9611@hotmail.com
-paypal - hangouts
+
+
+#paypal - hangouts
 johann9616@gmail.com
